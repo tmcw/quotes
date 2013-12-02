@@ -11,3 +11,7 @@
 > one day you’ll understand that it’s harder to be kind than clever.
 
 - http://blogs.hbr.org/2012/08/its-more-important-to-be-kind/
+
+> Abstraction is meant to be used for efficiency, not ignorance
+
+- Me
