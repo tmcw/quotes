@@ -15,3 +15,7 @@
 > Abstraction is meant to be used for efficiency, not ignorance
 
 - Me ([ref](http://wildisthewind.com/2013/07/the-value-of-computer-science/))
+
+> Good enough is perfect
+
+- Aaron Straup Cope
