@@ -23,3 +23,5 @@
 > A common mistake that people make when trying to design something completely foolproof is to underestimate the ingenuity of complete fools.
 
 - [Douglas Adams](https://www.goodreads.com/quotes/6711-a-common-mistake-that-people-make-when-trying-to-design)
+
+> Chastising the Spanish artist for painting unrepresentative cubistic abstractions, a layman withdrew a photograph of his wife from his pocket and held it up to Picasso with the admonition, “Why can’t you paint realistically, like that?” “Is that what your wife really looks like?” Picasso asked. “Yes,” replied the man. “Well, she’s very small, and quite flat.”
