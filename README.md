@@ -25,3 +25,7 @@
 - [Douglas Adams](https://www.goodreads.com/quotes/6711-a-common-mistake-that-people-make-when-trying-to-design)
 
 > Chastising the Spanish artist for painting unrepresentative cubistic abstractions, a layman withdrew a photograph of his wife from his pocket and held it up to Picasso with the admonition, “Why can’t you paint realistically, like that?” “Is that what your wife really looks like?” Picasso asked. “Yes,” replied the man. “Well, she’s very small, and quite flat.”
+
+> A complex system that works is invariably found to have evolved from a simple system that worked. A complex system designed from scratch never works and cannot be patched up to make it work. You have to start over with a working simple system. 
+
+[Gall's Law](https://en.wikipedia.org/wiki/Gall%27s_law#Gall.27s_law)
