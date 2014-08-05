@@ -37,3 +37,9 @@
 > The really important kind of freedom involves attention and awareness and discipline, and being able truly to care about other people and to sacrifice for them over and over in myriad petty, unsexy ways every day.
 
 [DFW, This is Water](http://web.archive.org/web/20080213082423/http://www.marginalia.org/dfw_kenyon_commencement.html)
+
+---
+
+> All things truly wicked start from innocence.
+
+[Ernest Hemingway, a Moveable Feast](http://en.wikipedia.org/wiki/A_Moveable_Feast)
