@@ -49,3 +49,9 @@
 > The bad news is, you gain perspective by having incredibly shitty things happen to you and the people you love. Nature has made it so that perspective is only delivered in bulk quantities. A railcar of perspective arrives and dumps itself on your lawn when all you needed was a microgram.
 
 [Maciej](https://blog.pinboard.in/2014/07/pinboard_turns_five/)
+
+---
+
+> Nodding the head does not row the boat
+
+[Irish proverb](http://nepab.com/general/IrishProberbs.htm)
