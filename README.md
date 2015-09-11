@@ -55,3 +55,7 @@
 > Nodding the head does not row the boat
 
 [Irish proverb](http://nepab.com/general/IrishProberbs.htm)
+
+> Brevity is... whit
+
+[The Simpsons](https://bestepisodeever.wordpress.com/tag/8f01/)
