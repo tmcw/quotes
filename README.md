@@ -59,3 +59,7 @@
 > Brevity is... wit
 
 [The Simpsons](https://bestepisodeever.wordpress.com/tag/8f01/)
+
+---
+
+> In theory, there is no difference between theory and practice. But, in practice, there is.
