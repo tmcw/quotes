@@ -18,7 +18,7 @@
 
 > Good enough is perfect
 
-- Aaron Straup Cope
+- Aaron Straup Cope http://www.aaronland.info/talks/where2011/#17
 
 > A common mistake that people make when trying to design something completely foolproof is to underestimate the ingenuity of complete fools.
 
