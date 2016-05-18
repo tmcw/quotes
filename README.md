@@ -63,3 +63,9 @@
 ---
 
 > In theory, there is no difference between theory and practice. But, in practice, there is.
+
+---
+
+> Controlling complexity is the essence of computer programming
+
+- [Brian Kernighan](http://www.catb.org/esr/writings/taoup/html/ch01s06.html#id2877537)
