@@ -69,3 +69,11 @@
 > Controlling complexity is the essence of computer programming
 
 - [Brian Kernighan](http://www.catb.org/esr/writings/taoup/html/ch01s06.html#id2877537)
+
+---
+
+> Binstock: You seem fastidious about always giving people credit for their work.
+
+> Kay: Well, I'm an old-fashioned guy. And I also happen to believe in history. The lack of interest, the disdain for history is what makes computing not-quite-a-field.
+
+- [Alan Kay](http://www.drdobbs.com/architecture-and-design/interview-with-alan-kay/240003442)
