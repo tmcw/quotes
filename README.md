@@ -12,6 +12,10 @@
 
 - http://blogs.hbr.org/2012/08/its-more-important-to-be-kind/
 
+> solutions are not formed in the negative space of explained problems
+
+- [me](https://twitter.com/tmcw/status/401771277007867904)
+
 > Abstraction is meant to be used for efficiency, not ignorance
 
 - Me ([ref](http://wildisthewind.com/2013/07/the-value-of-computer-science/))
