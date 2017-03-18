@@ -81,3 +81,9 @@
 > Kay: Well, I'm an old-fashioned guy. And I also happen to believe in history. The lack of interest, the disdain for history is what makes computing not-quite-a-field.
 
 - [Alan Kay](http://www.drdobbs.com/architecture-and-design/interview-with-alan-kay/240003442)
+
+---
+
+> You have no idea how fortunate that makes you, liking people. Being liked. Having that facility. That lightness, that charm. I don’t have it. I never did. - Richard Nixon
+
+- Leuchtenburg, William E.. The American President: From Teddy Roosevelt to Bill Clinton (p. 476). Oxford University Press.
