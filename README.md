@@ -87,3 +87,9 @@
 > You have no idea how fortunate that makes you, liking people. Being liked. Having that facility. That lightness, that charm. I don’t have it. I never did. - Richard Nixon
 
 - Leuchtenburg, William E.. The American President: From Teddy Roosevelt to Bill Clinton (p. 476). Oxford University Press.
+
+---
+
+> Nobody realizes that some people expend tremendous energy merely to be normal.
+
+- Albert Camus, Notebook IV in Notebooks: 1942-1951
