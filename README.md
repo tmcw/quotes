@@ -92,4 +92,11 @@
 
 > Nobody realizes that some people expend tremendous energy merely to be normal.
 
-- Albert Camus, Notebook IV in Notebooks: 1942-1951
+- [Albert Camus](https://en.wikipedia.org/wiki/Albert_Camus), Notebook IV in Notebooks: 1942-1951
+
+---
+
+> The quest for certainty blocks the search for meaning. Uncertainty is the very condition to impel man to unfold his powers.
+
+- [Eric Fromm](https://en.wikipedia.org/wiki/Erich_Fromm)
+
