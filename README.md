@@ -10,7 +10,7 @@
 
 > one day you’ll understand that it’s harder to be kind than clever.
 
-- http://blogs.hbr.org/2012/08/its-more-important-to-be-kind/
+- [Jeff Bezos](https://www.princeton.edu/main/news/archive/S27/52/51O99/index.xml)
 
 > solutions are not formed in the negative space of explained problems
 
