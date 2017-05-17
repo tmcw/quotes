@@ -100,3 +100,8 @@
 
 - [Eric Fromm](https://en.wikipedia.org/wiki/Erich_Fromm)
 
+---
+
+> A foolish consistency is the hobgoblin of little minds, adored by little statesmen and philosophers and divines. With consistency a great soul has simply nothing to do. He may as well concern himself with his shadow on the wall. Speak what you think now in hard words, and to-morrow speak what to-morrow thinks in hard words again, though it contradict every thing you said to-day. 
+
+- [Ralph Waldo Emerson](https://www.goodreads.com/quotes/353571-a-foolish-consistency-is-the-hobgoblin-of-little-minds-adored)
