@@ -114,6 +114,12 @@
 
 ---
 
+> I quickly realized that timing is the critical factor in the success of inventions. Most technology projects fail not because the technology doesn’t work, but because the timing is wrong – not all of the enabling factors are at play where they are needed.
+
+- [Ray Kurzweil](http://crnano.org/interview.kurzweil.htm)
+
+---
+
 ## See also
 
 * [Bret Victor - Quotes](http://worrydream.com/quotes/)
