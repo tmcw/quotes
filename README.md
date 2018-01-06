@@ -120,6 +120,14 @@
 
 ---
 
+> Repetition legitimizes.
+
+> If you hit something wrong, it sounds like a mistake. But if you hit something wrong again, people are forced to contextualize it differently and start hearing the meaning in the wrongness, and you can really lean into this. It takes a great musical ear and great skill to really lean into the wrong notes and make it sound interesting.
+
+- [Adam Neely](https://youtu.be/LlmTWlaWs_o?t=2m3s)
+
+---
+
 ## See also
 
 * [Bret Victor - Quotes](http://worrydream.com/quotes/)
