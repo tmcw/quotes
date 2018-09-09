@@ -126,6 +126,12 @@
 
 - [Adam Neely](https://youtu.be/LlmTWlaWs_o?t=2m3s)
 
+> In conclusion leaving is easy
+
+> When you've got some place you need to be
+
+- [Bill Callahan](https://genius.com/Bill-callahan-riding-for-the-feeling-lyrics)
+
 ---
 
 ## See also
