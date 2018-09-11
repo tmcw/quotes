@@ -136,6 +136,12 @@
 
 ---
 
+> By the way, what have you done that’s so great? Do you create anything, or just criticize others work and belittle their motivations?
+
+- Steve Jobs
+
+---
+
 ## See also
 
 * [Bret Victor - Quotes](http://worrydream.com/quotes/)
