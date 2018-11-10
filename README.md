@@ -142,6 +142,10 @@
 
 ---
 
+> There must always be an end in view, and the end must not be final."
+
+- Eliel Saarinen
+
 ## See also
 
 * [Bret Victor - Quotes](http://worrydream.com/quotes/)
