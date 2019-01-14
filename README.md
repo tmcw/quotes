@@ -146,6 +146,12 @@
 
 - Eliel Saarinen
 
+---
+
+> As my aunt Grace, who lived in the Ozarks, put it, “I get what I want, but I know what to want.”
+
+* [The Joy of Being a Woman in Her 70s](https://www.nytimes.com/2019/01/12/opinion/sunday/women-older-happiness.html)
+
 ## See also
 
 * [Bret Victor - Quotes](http://worrydream.com/quotes/)
