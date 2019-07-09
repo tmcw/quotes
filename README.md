@@ -54,6 +54,10 @@
 
 [Maciej](https://blog.pinboard.in/2014/07/pinboard_turns_five/)
 
+> A one-person business is an exercise in long-term anxiety management, so I would say if you are already an anxious person, go ahead and start a business. You're not going to feel any worse. You've already got the main skill set of staying up and worrying, so you might as well make some money.
+
+[Maciej](https://blog.pinboard.in/2019/07/i_cant_stop_winning/)
+
 ---
 
 > Nodding the head does not row the boat
