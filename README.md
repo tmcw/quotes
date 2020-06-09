@@ -146,9 +146,21 @@
 
 ---
 
-> There must always be an end in view, and the end must not be final."
+> There must always be an end in view, and the end must not be final.
 
 - Eliel Saarinen
+
+---
+
+> A critic enters the battlefield after the war and shoots the wounded.
+
+- [Murray Kempton](https://www.barrypopik.com/index.php/new_york_city/entry/a_critic_enters_the_battlefield_after_the_war)
+
+---
+
+> Writing a novel is like driving a car at night. You can only see as far as your headlights, but you can make the whole trip that way.
+
+- E.L. Doctorow
 
 ---
 
