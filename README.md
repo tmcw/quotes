@@ -168,6 +168,12 @@
 
 * [The Joy of Being a Woman in Her 70s](https://www.nytimes.com/2019/01/12/opinion/sunday/women-older-happiness.html)
 
+---
+
+> Money buys happiness in the same way drugs bring pleasure: Incredible if done right, dangerous if used to mask a weakness, and disastrous when no amount is enough.
+
+* [Morgan Housel](https://www.collaborativefund.com/blog/the-highest-forms-of-wealth/)
+
 ## See also
 
 * [Bret Victor - Quotes](http://worrydream.com/quotes/)
