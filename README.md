@@ -174,6 +174,12 @@
 
 * [Morgan Housel](https://www.collaborativefund.com/blog/the-highest-forms-of-wealth/)
 
+---
+
+> People like to say, “It’s the government’s problem! They need to regulate the fossil fuel and industrial food industries.” Yes. Do you see that happening anytime soon? This is a serious question, and I would like someone to tell me I’m wrong— that they’re on it up in D.C.
+
+* [Alicia Kennedy, On Veganism](https://www.aliciakennedy.news/p/on-veganism)
+
 ## See also
 
 * [Bret Victor - Quotes](http://worrydream.com/quotes/)
