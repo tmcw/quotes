@@ -180,6 +180,12 @@
 
 * [Alicia Kennedy, On Veganism](https://www.aliciakennedy.news/p/on-veganism)
 
+---
+
+> The purpose of a system is what it does
+
+* [Stafford Beer](https://en.m.wikipedia.org/wiki/The_purpose_of_a_system_is_what_it_does)
+
 ## See also
 
 * [Bret Victor - Quotes](http://worrydream.com/quotes/)
