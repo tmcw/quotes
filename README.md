@@ -186,6 +186,12 @@
 
 * [Stafford Beer](https://en.m.wikipedia.org/wiki/The_purpose_of_a_system_is_what_it_does)
 
+---
+
+> I don't care that they stole my idea… I care that they don't have any of their own
+
+* [Nikola Tesla](https://www.goodreads.com/quotes/446852-i-don-t-care-that-they-stole-my-idea)
+
 ## See also
 
 * [Bret Victor - Quotes](http://worrydream.com/quotes/)
