@@ -192,6 +192,12 @@
 
 * [Nikola Tesla](https://www.goodreads.com/quotes/446852-i-don-t-care-that-they-stole-my-idea)
 
+---
+
+> No man who owns his own house and lot can be a Communist. He has too much to do.
+
+* William J. Levitt, 1948
+
 ## See also
 
 * [Bret Victor - Quotes](http://worrydream.com/quotes/)
