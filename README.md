@@ -202,7 +202,7 @@
 
 > I'm almost 50, and here is the best thing I have learned so far: every strange thing you've ever been into, every failed hobby or forgotten instrument, everything you have ever learned will come back to you, will serve you when you need it. No love, however brief, is wasted.
 
-* [Louise Baker](https://twitter.com/louisethebaker/status/1379961867922239497?lang=en)
+* [Louise Miller](https://twitter.com/louisethebaker/status/1379961867922239497?lang=en)
 
 ## See also
 
