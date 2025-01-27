@@ -210,6 +210,12 @@
 
 [Ursula K. Le Guin](https://www.ursulakleguin.com/a-rant-about-technology?utm_source=thesephist&utm_medium=email&utm_campaign=create-things-that-come-alive)
 
+---
+
+> I urge you to please notice when you are happy.
+
+– Kurt Vonnegut
+
 ## See also
 
 * [Bret Victor - Quotes](http://worrydream.com/quotes/)
