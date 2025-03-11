@@ -216,6 +216,12 @@
 
 – Kurt Vonnegut
 
+---
+
+> You can easily find out what my music sounds like. I will not try to describe it.
+
+- Phil Elverum
+
 ## See also
 
 * [Bret Victor - Quotes](http://worrydream.com/quotes/)
