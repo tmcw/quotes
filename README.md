@@ -222,6 +222,12 @@
 
 - Phil Elverum
 
+---
+
+> The reason that most of us are unhappy most of the time is that we set our goals not for the person we’re going to be when we reach them, we set our goals for the person we are when we set them.
+
+– [Dan Gilbert](https://www.swiss-miss.com/2011/08/coudal-on-goals.html)
+
 ## See also
 
 * [Bret Victor - Quotes](http://worrydream.com/quotes/)
