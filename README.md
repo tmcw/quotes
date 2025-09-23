@@ -228,6 +228,10 @@
 
 – [Dan Gilbert](https://www.swiss-miss.com/2011/08/coudal-on-goals.html)
 
+> I love and admire my species, living and dead, and am totally dependent on them for my life and well being.
+
+- [Steve Jobs](https://putsomethingback.stevejobsarchive.com/)
+
 ## See also
 
 * [Bret Victor - Quotes](http://worrydream.com/quotes/)
