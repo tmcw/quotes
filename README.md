@@ -232,6 +232,12 @@
 
 - [Steve Jobs](https://putsomethingback.stevejobsarchive.com/)
 
+---
+
+> We suffer more often in imagination than in reality
+
+- Seneca
+
 ## See also
 
 * [Bret Victor - Quotes](http://worrydream.com/quotes/)
