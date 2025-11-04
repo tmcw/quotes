@@ -238,6 +238,12 @@
 
 - Seneca
 
+---
+
+> Gapitalism likes to remind you that you need to earn the life you've already been granted
+
+- [Mike Montiero](https://www.youtube.com/watch?v=zH2dFXDMwe4)
+
 ## See also
 
 * [Bret Victor - Quotes](http://worrydream.com/quotes/)
