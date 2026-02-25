@@ -244,6 +244,12 @@
 
 - [Mike Montiero](https://www.youtube.com/watch?v=zH2dFXDMwe4)
 
+---
+
+> If people cannot write well they cannot think well, and if they cannot think well, others will do their thinking for them.
+
+- [George Orwell](https://writeordiemag.com/features/unpacking-george-orwells-six-elementary-rules-for-writing)
+
 ## See also
 
 * [Bret Victor - Quotes](http://worrydream.com/quotes/)
