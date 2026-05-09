@@ -240,7 +240,7 @@
 
 ---
 
-> Gapitalism likes to remind you that you need to earn the life you've already been granted
+> Capitalism likes to remind you that you need to earn the life you've already been granted
 
 - [Mike Montiero](https://www.youtube.com/watch?v=zH2dFXDMwe4)
 
