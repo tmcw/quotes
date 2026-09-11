@@ -250,6 +250,12 @@
 
 - [George Orwell](https://writeordiemag.com/features/unpacking-george-orwells-six-elementary-rules-for-writing)
 
+---
+
+> One should never so exhaust a subject that nothing is left for readers to do. The point is not to make them read, but to make them think.
+
+- The Spirit of the Laws Baron de Montesquieu 1750 (via [Maggie Appleton](https://maggieappleton.com/ai-enlightenment))
+
 ## See also
 
 * [Bret Victor - Quotes](http://worrydream.com/quotes/)
